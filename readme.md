@@ -12,4 +12,4 @@ Principles:
 
 3. INHERITANCE ~ Inheritance allows for parent class to pass functionality to a child class, again, creating clean and reusable code, avoiding repeats.
 
-4. PLOMORPHYSM ~ means the same method can be used on different objects or the same function is called on different classes.
+4. POLYMORPHYSM ~ means the same method can be used on different objects or the same function is called on different classes.
